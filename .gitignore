@@ -30,3 +30,5 @@ hsenv.log
 \#*#
 .#*
 .stack-work/
+/shell.nix
+/ghci-tmp
